@@ -8,7 +8,10 @@
     margin-left: auto;
     margin-right: auto;
     width: 100%;
-    background-color: black;
+   background-image:url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_8QYIi5wB-ReXS3IQMhZtYpefAtxaRTgx6outOyRNVQ&s");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 .logo img{
     height: 190px;
